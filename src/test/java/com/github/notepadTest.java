@@ -5,6 +5,7 @@ import org.junit.Test;
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertTrue;
 
+@SuppressWarnings("unused")
 public class notepadTest extends junit.framework.TestCase {
 
     public void testNothing() {
