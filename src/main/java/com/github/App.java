@@ -1,6 +1,10 @@
 package com.github;
 
 /**
+ * Removed the references to jitpack
+ */
+
+/**
  * Hello world!
  *
  */
