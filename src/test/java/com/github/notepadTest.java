@@ -1,8 +1,6 @@
 package com.github;
 
-/* Modified the file 
- * 
- */
+import org.junit.Test;
 
 public class notepadTest extends junit.framework.TestCase {
 
