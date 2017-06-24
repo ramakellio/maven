@@ -19,7 +19,7 @@
  * @modemail    marcusrc1@hotmail.co.uk
  */
 
-package simplejavatexteditor;
+package com.github;
 
 import javax.swing.*;
 import javax.swing.border.Border;
