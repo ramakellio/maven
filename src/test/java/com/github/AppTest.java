@@ -4,6 +4,7 @@ import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertTrue;
+import static org.junit.Assert.assertFalse;
 
 public class AppTest 
 {
@@ -18,6 +19,12 @@ public class AppTest
     @Test
     public void testTrue()
     {
-        assertTrue( false );
+        assertTrue( true );
+    }
+    
+    @Test
+    public void testFalse()
+    {
+        assertFalse( true );
     }
 }
