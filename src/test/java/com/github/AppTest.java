@@ -22,8 +22,7 @@ public class AppTest
         assertTrue( true );
     }
     
-    @Test
-    public void testFalse()
+     public void testFalse()
     {
         fail("test failed" );
     }
