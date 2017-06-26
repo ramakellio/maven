@@ -22,8 +22,9 @@ public class AppTest
         assertTrue( true );
     }
     
+    @Test
      public void testFalse()
     {
-        fail("test failed" );
+         assertEquals("Hello world", "world");        
     }
 }
